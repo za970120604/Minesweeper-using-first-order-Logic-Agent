@@ -12,6 +12,8 @@ The hardest part for this game is that we need to maintain our knowledge base(KB
 The rules to generate CNF clauses whenever a hint is provided to the agent is as followed : 
 ![image](https://github.com/za970120604/Minesweeper-using-first-order-Logic-Agent/assets/72210437/518a35c3-471a-4ab7-a636-1444663adae5)
 
-Alongside the code is my analysis on the agent's behavior , named report.pdf . 
+Alongside the code is my analysis on the agent's behavior , named report.pdf .
+
+The code is well commented and I recommend everyone to modify the code and see what's happening .
 
 
